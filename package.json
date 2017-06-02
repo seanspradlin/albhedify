@@ -1,0 +1,21 @@
+{
+  "name": "albhedify",
+  "version": "1.0.0",
+  "description": "Convert strings to the al Bhed language",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanspradlin/albhedify.git"
+  },
+  "keywords": [
+    "Final",
+    "Fantasy",
+    "AlBhed"
+  ],
+  "author": "Sean Spradlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanspradlin/albhedify/issues"
+  },
+  "homepage": "https://github.com/seanspradlin/albhedify#readme"
+}
